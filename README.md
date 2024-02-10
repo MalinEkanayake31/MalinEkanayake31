@@ -13,7 +13,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,java,mysql,dart,flutter,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,dart,flutter,py,linux" />
   </a>
 </p>
 
