@@ -1,13 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Malin+Ashmitha+Ekanayake;From+Matara,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Malin+Ashmitha+Ekanayake;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MalinEkanayake31&label=Profile%20views&color=0e75b6&style=flat" alt="MalinEkanayake31" /> </p>
-- 👋 Hi, I’m @MalinEkanayake31
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning Computer Science at University of Colombo School of computing
-- 💞️ I’m looking to collaborate on software projects
-- 📫 How to reach me +9470-3742503
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @MalinEkanayake31<br/>
+- 👀 I’m interested in software developing<br/>
+- 🌱 I’m currently learning Computer Science at University of Colombo School of computing<br/>
+- 💞️ I’m looking to collaborate on software projects<br/>
+- 📫 How to reach me +9470-3742503<br/>
 
 ## 💻 Tech Stack
 - Languages
