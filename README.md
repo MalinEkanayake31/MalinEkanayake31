@@ -26,7 +26,7 @@ I'm **Malin Ashmitha Ekanayake**, a **3rd-year Computer Science undergraduate** 
 ### 🖥️ Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,dart,flutter,py,linux,scala,r,react,mongodb,spring,nodejs,javascript,express" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,dart,flutter,py,linux,scala,r,react,mongodb,spring,nodejs,javascript,express,php" />
   </a>
 </p>
 
