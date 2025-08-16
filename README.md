@@ -13,8 +13,7 @@
 I'm **Malin Ashmitha Ekanayake**, a **3rd-year Computer Science undergraduate** at the **University of Colombo School of Computing (UCSC)**.
 
 💡 Passionate about **Machine Learning** and **Generative AI**, with growing expertise in:  
-- 📊 **Data Science** & **Data Analytics**  
-- ☁️ **Cloud Computing**  
+- 📊 **Data Science** & **Data Analytics**   
 - 🌐 **Full-Stack Development**
 
 📈 I have a strong foundation in **financial reporting**, **business strategy**, and **data-driven decision-making**, which enables me to think critically at the intersection of **technology and business**. I'm also keenly interested in **project management** and **strategic execution**.
